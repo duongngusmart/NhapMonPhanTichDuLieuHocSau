@@ -1,0 +1,101 @@
+OrderID,Date,CustomerID,Product_Category,Product_Name,Quantity,UnitPrice,Discount,Region
+ORD0001,2025-11-24,CUST027,Clothing,Jeans,6,93.2,0.12,Central
+ORD0002,2025-02-27,CUST025,Electronics,Smartphone,10,134.67,,South
+ORD0003,2025-01-13,CUST025,Books,Machine Learning Intro,9,178.2,0.04,North
+ORD0004,2025-05-21,CUST002,Home & Kitchen,Coffee Maker,3,199.86,0.01,North
+ORD0005,2025-05-06,CUST008,Electronics,Laptop,7,144.85,0.17,North
+ORD0006,2025-04-25,CUST027,Electronics,Laptop,3,138.23,,Central
+ORD0007,2025-03-13,CUST002,Books,Data Science Handbook,1,71.97,0.04,South
+ORD0008,2025-02-22,CUST026,Books,Machine Learning Intro,5,147.22,0.02,Central
+ORD0009,2025-12-13,CUST011,Clothing,T-Shirt,6,271.34,0.06,Central
+ORD0010,2025-10-07,CUST013,Electronics,Laptop,1,240.85,0.23,Central
+ORD0011,2025-02-14,CUST009,Clothing,Sneakers,6,59.21,0.23,North
+ORD0012,2025-10-30,CUST003,Electronics,Smartphone,4,34.59,0.08,Central
+ORD0013,2025-08-05,CUST007,Electronics,Laptop,4,159.48,,South
+ORD0014,2025-01-17,CUST030,Home & Kitchen,Microwave,2,193.55,,South
+ORD0015,2025-01-16,CUST019,Electronics,Laptop,6,107.2,0.3,South
+ORD0016,2025-02-17,CUST029,Clothing,Jeans,9,247.34,0.2,South
+ORD0017,2025-04-22,CUST023,Clothing,T-Shirt,7,227.83,0.2,Central
+ORD0018,2025-04-30,CUST011,Home & Kitchen,Microwave,10,205.11,0.28,South
+ORD0019,2025-09-16,CUST007,Clothing,T-Shirt,3,75.15,,South
+ORD0020,2025-11-05,,Books,Data Science Handbook,4,67.75,,Central
+ORD0021,2025-01-14,CUST016,Home & Kitchen,Coffee Maker,3,17.08,,Central
+ORD0022,2025-10-15,CUST013,Clothing,Sneakers,3,81,,North
+ORD0023,2025-04-12,CUST029,Clothing,T-Shirt,7,147.79,0.17,Central
+ORD0024,2025-11-29,CUST030,Books,Data Science Handbook,1,256.42,,Central
+ORD0025,2025-12-26,CUST021,Home & Kitchen,Coffee Maker,3,31.12,0.23,North
+ORD0026,2025-10-07,,Books,Data Science Handbook,6,130.19,,North
+ORD0027,2025-08-03,CUST005,Home & Kitchen,Microwave,7,192.63,0.22,Central
+ORD0028,2025-04-23,CUST009,Home & Kitchen,Coffee Maker,4,66.39,,North
+ORD0029,2025-08-18,CUST005,Electronics,Laptop,5,211.94,0.29,South
+ORD0030,2025-10-29,CUST008,Clothing,Sneakers,3,153.37,,Central
+ORD0031,2025-05-23,CUST024,Clothing,Jacket,2,80.76,,North
+ORD0032,2025-01-04,CUST018,Electronics,Headphones,7,200.26,0.2,North
+ORD0033,2025-03-23,CUST018,Books,Python for Data Analysis,1,11.61,0.12,North
+ORD0034,2025-12-24,CUST009,Electronics,Headphones,8,227.78,0.02,North
+ORD0035,2025-08-05,CUST024,Clothing,Jeans,4,233.31,0.19,Central
+ORD0036,2025-06-24,CUST019,Clothing,Jacket,4,40.91,,North
+ORD0037,2025-05-23,CUST014,Electronics,Monitor,8,133.29,0.26,North
+ORD0038,2025-03-21,CUST029,Electronics,Smartphone,6,61.01,0.04,North
+ORD0039,2025-04-21,CUST019,Electronics,Headphones,-5,287.81,0.23,South
+ORD0040,2025-06-22,CUST013,Clothing,Sneakers,4,160.21,0.13,South
+ORD0041,2025-02-22,CUST012,Electronics,Headphones,4,24.56,0.15,Central
+ORD0042,2025-02-17,CUST008,Electronics,Laptop,1,82.27,0.25,Central
+ORD0043,2025-07-14,CUST005,Books,Python for Data Analysis,4,256.02,0.03,South
+ORD0044,2025-02-19,CUST017,Electronics,Monitor,7,142.37,0.19,South
+ORD0045,2025-07-03,CUST016,Clothing,T-Shirt,6,242.41,0.21,North
+ORD0046,2025-06-26,CUST003,Books,Python for Data Analysis,5,203.6,0.22,North
+ORD0047,2025-11-06,CUST025,Home & Kitchen,Microwave,2,296.49,0.08,South
+ORD0048,2025-05-16,,Clothing,Jeans,5,182.68,0.16,Central
+ORD0049,2025-01-23,CUST028,Clothing,Jacket,6,285.51,0.13,South
+ORD0050,2025-08-24,CUST004,Home & Kitchen,Coffee Maker,9,268.51,0.08,Central
+ORD0051,2025-10-02,CUST005,Clothing,Jacket,7,187.67,0.25,South
+ORD0052,2025-03-05,CUST021,Home & Kitchen,Coffee Maker,9,218.59,,North
+ORD0053,2025-07-13,CUST006,Home & Kitchen,Coffee Maker,6,156.39,0.07,Central
+ORD0054,2025-02-10,CUST026,Clothing,Jacket,1,250.87,0.18,North
+ORD0055,2025-10-10,CUST022,Electronics,Headphones,2,168.88,0.01,South
+ORD0056,2025-05-31,CUST014,Electronics,Smartphone,5,270.19,0.05,Central
+ORD0057,2025-11-18,CUST020,Home & Kitchen,Blender,3,225.66,,Central
+ORD0058,2025-11-13,CUST003,Books,Data Science Handbook,10,147.66,0.1,Central
+ORD0059,2025-07-05,CUST013,Home & Kitchen,Microwave,5,85.17,0.21,North
+ORD0060,2025-10-23,CUST013,Home & Kitchen,Blender,1,81.7,,South
+ORD0061,2025-04-09,CUST020,Home & Kitchen,Microwave,2,194.92,,North
+ORD0062,2025-12-27,CUST015,Electronics,Laptop,10,232.09,0.03,Central
+ORD0063,2025-02-05,CUST017,Electronics,Headphones,7,161.18,0.15,North
+ORD0064,2025-01-24,CUST009,Electronics,Laptop,6,191.76,0.21,Central
+ORD0065,2025-12-05,CUST018,Home & Kitchen,Coffee Maker,6,89.63,0.15,North
+ORD0066,2025-04-27,CUST028,Books,Machine Learning Intro,7,32.47,0.03,South
+ORD0067,2025-05-29,CUST001,Electronics,Laptop,10,92.86,,North
+ORD0068,2025-02-10,CUST022,Clothing,T-Shirt,9,88.8,0.09,North
+ORD0069,2025-04-30,CUST024,Clothing,Jeans,2,102.72,0.14,North
+ORD0070,2025-02-21,CUST004,Clothing,Jacket,7,166.64,0.13,North
+ORD0071,2025-07-14,CUST022,Home & Kitchen,Blender,-2,50.13,0.1,South
+ORD0072,2025-05-23,CUST029,Clothing,Jeans,4,77.07,0.08,Central
+ORD0073,2025-08-21,CUST018,Home & Kitchen,Microwave,5,211.25,,Central
+ORD0074,2025-11-22,CUST025,Clothing,Jacket,1,214.86,,Central
+ORD0075,2025-07-06,CUST009,Books,Python for Data Analysis,7,28.63,,South
+ORD0076,2025-03-25,CUST025,Home & Kitchen,Microwave,1,128.2,,South
+ORD0077,2025-07-09,CUST021,Clothing,Jacket,9,167.36,0.23,North
+ORD0078,2025-07-01,,Electronics,Monitor,9,130.57,,South
+ORD0079,2025-04-18,CUST004,Home & Kitchen,Blender,4,69.98,,Central
+ORD0080,2025-12-10,CUST010,Electronics,Laptop,6,131.84,0.22,South
+ORD0081,2025-05-17,CUST014,Electronics,Laptop,7,272.4,0.16,Central
+ORD0082,2025-12-26,CUST006,Electronics,Monitor,2,179.38,,South
+ORD0083,2025-12-16,CUST015,Electronics,Headphones,6,211.7,,South
+ORD0084,2025-11-28,CUST001,Clothing,T-Shirt,10,258.45,,Central
+ORD0085,2025-02-06,CUST024,Clothing,T-Shirt,6,232.02,,Central
+ORD0086,2025-11-08,CUST029,Home & Kitchen,Blender,2,120.31,,South
+ORD0087,2025-11-22,CUST024,Home & Kitchen,Coffee Maker,5,11.71,,South
+ORD0088,2025-03-29,CUST009,Home & Kitchen,Microwave,9,112.01,0.08,North
+ORD0089,2025-10-01,CUST017,Clothing,Jacket,5,228.51,0.17,Central
+ORD0090,2025-05-06,CUST025,Home & Kitchen,Coffee Maker,7,257.5,0.04,North
+ORD0091,2025-03-25,CUST006,Electronics,Monitor,6,286.49,0.15,South
+ORD0092,2025-08-25,CUST017,Clothing,Sneakers,7,131.52,0.17,Central
+ORD0093,2025-07-14,CUST030,Home & Kitchen,Microwave,5,226.78,0.13,South
+ORD0094,2025-05-19,CUST004,Electronics,Laptop,9,168.38,,Central
+ORD0095,2025-11-24,CUST028,Home & Kitchen,Coffee Maker,3,184.94,,South
+ORD0096,2025-12-19,CUST021,Books,Python for Data Analysis,4,73.96,0.14,North
+ORD0097,2025-10-13,CUST010,Home & Kitchen,Microwave,7,73.63,0.12,North
+ORD0098,2025-04-23,,Books,Python for Data Analysis,7,136.39,,North
+ORD0099,2025-12-17,CUST021,Home & Kitchen,Microwave,3,18.42,0.02,Central
+ORD0100,2025-06-16,CUST017,Home & Kitchen,Coffee Maker,10,107.48,,Central
